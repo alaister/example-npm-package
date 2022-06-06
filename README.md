@@ -28,4 +28,4 @@ npm i @alaister/example
 
 ## License
 
-MIT &copy; [alaister](https://github.com/sponsors/alaister)
+MIT &copy; [alaister](https://github.com/alaister)
