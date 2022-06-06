@@ -32,7 +32,7 @@
   "release": {
     "branches": [
       { "name": "main" },
-      { "name": "", "channel": "next", "prerelease": true }
+      { "name": "next", "channel": "next", "prerelease": true }
     ]
   }
 }
