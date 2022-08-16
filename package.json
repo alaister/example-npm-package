@@ -33,7 +33,7 @@
     "branches": [
       { "name": "main" },
       { "name": "next", "channel": "next", "prerelease": true },
-      { "name": "rc", "channel": "next-major", "prerelease": true }
+      { "name": "rc", "channel": "rc", "prerelease": true }
     ]
   }
 }
